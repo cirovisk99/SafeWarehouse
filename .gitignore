@@ -1,0 +1,15 @@
+# PDF do enunciado
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+venv/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
